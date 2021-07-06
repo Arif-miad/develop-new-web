@@ -1,0 +1,73 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.orange-color{
+    color: coral;
+}
+.flexible-container  {
+    display: flex;
+    
+}
+.divided{
+    width: 50%;
+}
+.divided img{
+    width: 5%;
+    padding: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato) ;
+    padding: 10px 30px;
+    font-weight: 400;
+    border-radius: 10px;
+    
+
+}
+.point{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+
+}
+.protect
+{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.container{
+    margin: auto;
+    align-items: center;
+}
+.dste{
+    color: coral;
+    width: 50%;
+}
+.wte{
+    width: 30%;
+    
+   
+    padding: 5px;
+    border-radius: 10px;
+
+    box-shadow: 30px 30px 30px salmon;
+    background-color: white;
+    border-left: violet;
+}
+.wte image{
+width: 30%;
+height: 25%;
+
+}
+.fter{
+    color: yellow;
+    text-align: center;
+}
+.tnx{
+    color: cadetblue;
+}
+
+
+
+
+
